@@ -1,6 +1,6 @@
 [versions]
 # change this version if required
-mazegame = "1.0.2025.2.pre"
+mazegame = "1.0.2025.3.pre"
 
 # probably you want to leave these as they are, unless you know what you are doing
 kotlin = "2.2.20"
